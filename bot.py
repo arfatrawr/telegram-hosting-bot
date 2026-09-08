@@ -53,7 +53,7 @@ def keep_alive():
 # --- End Flask Keep Alive ---
 
 # --- Configuration ---
-TOKEN = "8961500394:AAHNzlqo6iZhkYO8xNL9THGNn4CgB-VN1ww" #bot token dalo yeha
+TOKEN = "8846458271:AAF_dm0ogfFBM1cHGs2UPErMQ5-aJ3FTTA4" #bot token dalo yeha
 OWNER_ID = 8623320269 #yha tumhra chat id dalo
 ADMIN_ID = 8623320269 #yeha koi admin ya tumhara chat id dalo
 YOUR_USERNAME = '@aaryanown' #yeha tumhra username dala
@@ -69,7 +69,7 @@ IROTECH_DIR = os.path.join(BASE_DIR, 'inf')
 DATABASE_PATH = os.path.join(IROTECH_DIR, 'bot_data.db')
 
 # File upload limits
-FREE_USER_LIMIT = 2
+FREE_USER_LIMIT = 3
 SUBSCRIBED_USER_LIMIT = 10
 ADMIN_LIMIT = 20
 OWNER_LIMIT = float('inf')
